@@ -1,6 +1,6 @@
 {
   "name": "@neoskop/ligscrib",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Ligature icon font generator",
   "keywords": [
     "icon",
@@ -44,7 +44,7 @@
     "glob-promise": "4.1.0",
     "source-map-support": "0.5.19",
     "stream-buffers": "3.0.2",
-    "svg2ttf": "5.2.0",
+    "svg2ttf": "^6.0.3",
     "svgicons2svgfont": "9.1.1",
     "tslib": "2.2.0",
     "ttf2woff": "2.0.2",
